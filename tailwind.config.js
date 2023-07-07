@@ -13,8 +13,8 @@ module.exports = {
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
       fontFamily: {
-        sans: "Plus Jakarta Sans, sans-serif",
-        bebas: "Bebas Neue, sans-serif",
+        sans: ['var(--jarkata-font)'],
+        bebas: ["var(--bebas-font)"],
       },
     },
   },

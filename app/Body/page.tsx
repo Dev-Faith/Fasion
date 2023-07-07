@@ -5,7 +5,7 @@ export default function Body() {
     return (
     <main>
         <div className="flex items-center justify-center mt-[94px] flex-col px-[215px]">
-            <h1 className="font-bebas text-[70px] max-w-[60rem] text-center  ">
+            <h1 className="font-bebas text-[70px] max-w-[60rem] text-center">
                 FASHIONABLE, QUALITY, DURABLE AND BEST SHOES FOR EVERYONE 
             </h1>
 
